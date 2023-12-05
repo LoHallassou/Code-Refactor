@@ -4,7 +4,7 @@
 
 ## This website has been made to simplify the common positives for putting a business on the web so it can appeal to the many entrepenuers of the world. By this website itself being a readily searchable source of information, we prove that it is truly important to widen one's company to the internet.
 
-<p><img alt="Horiseon website Image" src=><p>
+<p><img alt="Horiseon website Image" src="./assets/images/01-html-css-git-challenge-demo.png"/><p>
 
 ## The basic uses of web development here express the simplicity of creating a werbsite with images and crative styling put in place throught the use of the style.css file and images saved in the images folder.
 
